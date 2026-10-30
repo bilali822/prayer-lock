@@ -7,6 +7,5 @@
     "theme_color": "#0A1F2E",
     "description": "تطبيق مُذكّر الصلاة",
     "orientation": "portrait-primary",
-    "prefer_related_applications": false,
     "icons": []
 }
